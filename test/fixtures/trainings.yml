@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  trainer: one
+  title: MyString
+  start_at: 2026-11-25 01:21:05
+  duration_minutes: 1
+  capacity: 1
+  cancelled_at: 2026-11-25 01:21:05
+
+two:
+  trainer: two
+  title: MyString
+  start_at: 2026-11-25 01:21:05
+  duration_minutes: 1
+  capacity: 1
+  cancelled_at: 2026-11-25 01:21:05
