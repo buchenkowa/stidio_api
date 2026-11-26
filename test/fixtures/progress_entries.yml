@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  client: one
+  author: one
+  recorded_on: 2026-11-26 22:51:58
+  metric: MyString
+  value: 1
+  note: MyText
+
+two:
+  client: two
+  author: two
+  recorded_on: 2026-11-26 22:51:58
+  metric: MyString
+  value: 1
+  note: MyText
